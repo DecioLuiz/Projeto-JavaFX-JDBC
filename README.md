@@ -45,5 +45,5 @@ Department Form View
 
 
 ## 🛠 Skills
-Java, SpringBoot 3, JPA, Hibernate
+Java, JavaFX, MySQL, JDBC
 
