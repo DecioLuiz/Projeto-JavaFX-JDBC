@@ -23,15 +23,19 @@ A aplicação utiliza a arquitetura MVC (Model-View-Controller) para separar as 
 ## Screenshots
 
 Main View - Sellers
+
 ![Main View - Sellers](/01.jpg)
 
 Seller Form View
+
 ![Seller Form View](/02.jpg)
 
 Main View - Departments
+
 ![Main View - Departments](/03.jpg)
 
 Department Form View
+
 ![Department Form View](/04.jpg)
 
 
